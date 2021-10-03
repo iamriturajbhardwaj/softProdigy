@@ -1,0 +1,1 @@
+export { TextType1 ,TextType2} from "./Text";

@@ -1,0 +1,14 @@
+com/softprodigy/imagelist/ReactNativeFlipper.java
+ com.softprodigy.imagelist.ReactNativeFlipper
+ com.softprodigy.imagelist.ReactNativeFlipper$1
+ com.softprodigy.imagelist.ReactNativeFlipper$2
+ com.softprodigy.imagelist.ReactNativeFlipper$2$1
+com/softprodigy/imagelist/MainApplication.java
+ com.softprodigy.imagelist.MainApplication
+ com.softprodigy.imagelist.MainApplication$1
+com/softprodigy/imagelist/MainActivity.java
+ com.softprodigy.imagelist.MainActivity
+com/softprodigy/imagelist/BuildConfig.java
+ com.softprodigy.imagelist.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
